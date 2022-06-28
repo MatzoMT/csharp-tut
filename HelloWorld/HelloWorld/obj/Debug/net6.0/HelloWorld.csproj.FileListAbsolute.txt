@@ -1,0 +1,15 @@
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/matthewtzou/csharp/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
